@@ -15,5 +15,16 @@
   "bugs": {
     "url": "https://github.com/GerardoRosas/Cafeteria/issues"
   },
-  "homepage": "https://github.com/GerardoRosas/Cafeteria#readme"
+  "homepage": "https://github.com/GerardoRosas/Cafeteria#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.4",
+    "gulp": "^4.0.2",
+    "gulp-postcss": "^9.0.1",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.49.9"
+  },
+  "browserslst": [
+    "last 1 version",
+    "> 1%"
+  ]
 }
