@@ -1,6 +1,6 @@
 {
   "name": "cafeteria",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "SASS y Gulp ",
   "main": "index.js",
   "scripts": {
@@ -19,8 +19,10 @@
   "devDependencies": {
     "autoprefixer": "^10.4.4",
     "gulp": "^4.0.2",
+    "gulp-imagemin": "^7.1.0",
     "gulp-postcss": "^9.0.1",
     "gulp-sass": "^5.1.0",
+    "gulp-webp": "^4.0.1",
     "sass": "^1.49.9"
   },
   "browserslst": [
