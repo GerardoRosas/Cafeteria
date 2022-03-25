@@ -4,6 +4,7 @@
 .header {
     padding: 5rem;
     position: relative;
+    background-size: cover;
     @include m.tablet { 
         min-height: 60rem;
     }
@@ -38,6 +39,15 @@
 .header-inicio {
     background-image: url('../img/header_inicio.jpg');
     background-repeat: no-repeat;
+}
+
+.header-nosotros {
+    background-image: url('../img/header_nosotros.jpg');
+    background-repeat: no-repeat;
+}
+
+.header-proceso {
+    background-image: url(../img/header_proceso.jpg);
 }
 
 
